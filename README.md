@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on professionalism  <br>👯 I’m looking to collaborate on any interesting projects<br>🌱 I’m currently learning machine learning  and deep learning <br>💬 Ask me about implementation <br>⚡ Fun fact l am in to code 
+🔭 I’m currently working on professionalism  <br>👯 I’m looking to collaborate on any interesting projects<br>🌱 I’m currently learning machine learning  and deep learning <br>💬 Ask me about implementation <br>⚡ Fun fact l am in to coding 
 
 
 ## 🌐 Socials:
